@@ -1,132 +1,142 @@
-# 💻 Elite GitHub Profile README (For You)
+
 
 ```md
-<h1 align="center">Hey 👋, I'm Kumar Karthik Malla</h1>
+<h1 align="center">Hi 👋, I'm Kumar Karthik Malla</h1>
+<h3 align="center">Competitive Programmer | Full Stack Developer | Problem Solver</h3>
 
 <p align="center">
-  <em>
-    Competitive Programmer • Full Stack Developer • Blockchain Builder • AI Enthusiast
-  </em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karthiik1&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
-</p>
-
-<p align="center">
-  <a href="mailto:karthikmalla.012@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/karthiik1">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_LEETCODE">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="YOUR_CODECHEF">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🏆 Top 1% globally on LeetCode (Knight Badge)
-- ⭐ 4★ CodeChef Programmer
-- 💡 Solved 1000+ DSA Problems
-- 🌐 Full Stack Developer focused on scalable applications
-- ⛓️ Building Blockchain & Web3 projects
-- 🤖 Exploring AI, NLP, and ML systems
-- 🎯 Passionate about solving real-world problems using tech
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-## Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-## Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-## Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-## Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+- 🎓 B.Tech CSE Student at **Vignan’s Institute of Information Technology**
+- 💡 Passionate about **DSA, Full Stack Development, and AI-powered applications**
+- 🧠 Solved **1000+ coding problems** across multiple platforms
+- 🏆 **Top 1% globally on LeetCode** with Knight Badge
+- ⭐ CodeChef **4★ Programmer**
+- 🌱 Currently exploring **Backend Development, FastAPI, Blockchain, and NLP**
+- ⚡ Love building scalable and impactful software solutions
 
 ---
 
-# 🏆 Achievements
+## 🛠️ Tech Stack
 
-- 🥇 Hackathon Winner — SuShacks @ VIIT
-- 🧠 LeetCode Peak Rating: **2182**
-- ⭐ CodeChef Highest Rating: **1807**
-- 📈 1000+ DSA Problems Solved
-- 🌍 Google Student Ambassador
-- 🚀 Unstop Igniters Club Co-Lead
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,sql" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql,mongodb,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify" />
+</p>
+
+---
+
+# 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Knight%20(2182)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+
+  <a href="https://www.codechef.com/">
+    <img src="https://img.shields.io/badge/CodeChef-4★%20(1807)-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
+
+- 🔥 Ranked among the **Top 1% globally on LeetCode**
+- 💯 Solved **1000+ DSA problems**
+- 🏅 Ranked **877 in Unstop Code Conquest**
+- 🥇 Hackathon Winner at **SuShacks - VIIT**
 
 ---
 
 # 🚀 Featured Projects
 
-## 💸 Trust-Drop
-Blockchain-based transparent donation platform using Solidity, Hardhat, React.js, and Web3.
+## 🔗 Trust-Drop
+### Blockchain-Based Trust Verification Platform
 
-## 🛡️ Toxic Text Classification
-AI-powered NLP system for detecting harmful online content using Scikit-learn and FastAPI.
+- Built a decentralized application using **Solidity + Hardhat**
+- Integrated **Web3 wallet connectivity**
+- Developed responsive frontend using **React.js + Tailwind CSS**
+- Ensured secure and immutable transaction handling
+
+---
 
 ## 📚 Course Navigator
-Interactive course exploration platform with smart filtering and API integrations.
+### Smart Course Discovery Platform
+
+- Built an interactive learning resource platform
+- Implemented dynamic **search & filtering**
+- Integrated external APIs for real-time educational content
+- Designed responsive UI with React.js
 
 ---
 
-# 📊 GitHub Stats
+## 🛡️ Toxic Text Classification
+### NLP-Based Toxic Comment Detection System
+
+- Developed an NLP pipeline for harmful content detection
+- Used preprocessing techniques like:
+  - Tokenization
+  - Stemming
+  - Vectorization
+- Trained ML models using **Scikit-learn**
+- Evaluated performance using classification metrics
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthiik1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthiik1&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiik1&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# ⚡ Competitive Programming
+# 🏅 Achievements
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
+- 🥇 1X Hackathon Winner
+- 🌍 Top 1% on LeetCode
+- ⭐ 4★ CodeChef Coder
+- 👨‍💼 Google Student Ambassador
+- 🚀 Unstop Igniters Club Co-Lead (2025–26)
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
 </p>
 
 ---
 
-# ✨ Quote
-
-<p align="center">
-  <em>"Building impactful products with code, creativity, and consistency."</em>
-</p>
+<h3 align="center">⭐ "Code. Build. Solve. Repeat." ⭐</h3>
 ```
-
