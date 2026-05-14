@@ -1,6 +1,4 @@
 
-
-```md
 <h1 align="center">Hi 👋, I'm Kumar Karthik Malla</h1>
 <h3 align="center">Competitive Programmer | Full Stack Developer | Problem Solver</h3>
 
